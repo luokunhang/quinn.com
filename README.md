@@ -1,6 +1,6 @@
 ## I see your value now.
 
-I am a data scientist in training. Graduated from University of Washington in 2020 with a major in Applied and Computational Mathematical Sciences(https://acms.washington.edu/), I am an incoming student of Master of Science in Analytics(https://www.mccormick.northwestern.edu/analytics/) at Northwestern University.
+I am a data scientist in training. Graduated from University of Washington in 2020 with a major in [Applied and Computational Mathematical Sciences](https://acms.washington.edu/), I am an incoming student of [Master of Science in Analytics](https://www.mccormick.northwestern.edu/analytics/) at Northwestern University.
 
 ### News
 
