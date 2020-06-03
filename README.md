@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## I see your value now.
 
-You can use the [editor on GitHub](https://github.com/luokunhang/quinn.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a data scientist in training. Graduated from University of Washington in 2020 with a major in Applied and Computational Mathematical Sciences(https://acms.washington.edu/), I am an incoming student of Master of Science in Analytics(https://www.mccormick.northwestern.edu/analytics/) at Northwestern University.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### News
 
 ### Markdown
 
