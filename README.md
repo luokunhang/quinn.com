@@ -2,13 +2,20 @@
 
 I am a data scientist in training. Graduated from University of Washington in 2020 with a major in [Applied and Computational Mathematical Sciences](https://acms.washington.edu/), I am an incoming student of [Master of Science in Analytics](https://www.mccormick.northwestern.edu/analytics/) at Northwestern University.
 
-I am actively looking for summer internship 2020 as a data analyst/scientist working on machine learning, cloud computing, natural language processing, healthcare analytics.
+I am always actively looking for internship and full-time job as a data scientist or machine learning engineer.
 
 ### News
 
+
+### Resume
+
+[View Resume]()
+[中文简历]
+
+
 ### Porfolio
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
