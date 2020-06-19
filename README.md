@@ -9,7 +9,8 @@ I am always actively looking for internship and full-time job as a data scientis
 
 ### Resume
 
-View "Resume 1.pdf" in the repository.
+[View Resume](Resume 1.pdf)
+[中文简历](简历 1.pdf)
 
 ### Porfolio
 
